@@ -6,4 +6,3 @@ deployment4
 deploy to staging env
 echo "good jod"
 tested and accepted
-
