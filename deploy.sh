@@ -3,4 +3,7 @@ Deploy pyhton app
 Deploy in the dev environment
 deployment5 master
 deployment4
-deploy to staging
+deploy to staging env
+echo "good jod"
+tested and accepted
+
